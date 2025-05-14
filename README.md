@@ -2,7 +2,7 @@
 
 *This repository is dedicated to making data preprocessing and related model parameters publicly available, which can further expand the research of behavioral data in the field of Alzheimer’s.*
 
-![model](reslut/model.png)
+![model](images/model.png)
 
 **Project dependency environment:**
 ```base
