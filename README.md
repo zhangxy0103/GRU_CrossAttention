@@ -4,11 +4,12 @@ Application of Sequence Models in the AD&amp;MCI
 *This repository is dedicated to making data preprocessing and related model parameters publicly available, which can further expand the research of behavioral data in the field of Alzheimer’s.*
 
 **Feature Engineering**
-##Data_Preprocessing
+
+1. Data_Preprocessing
 
 
 
-##PCA dimensionality reduction
+2. PCA dimensionality reduction
 
 
 
