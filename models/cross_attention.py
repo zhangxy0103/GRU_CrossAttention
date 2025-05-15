@@ -28,3 +28,4 @@ class CrossAttention(nn.Module):
         output = self.proj_o(output)
 
         return output
+
