@@ -6,7 +6,7 @@
 
 **Project dependency environment:**
 ```base
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 **Feature Engineering**
